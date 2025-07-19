@@ -1,0 +1,7 @@
+Copyright © 2025 Scott Ketchem
+
+This code is provided for educational and demonstrative purposes only.
+You may not copy, redistribute, modify, or use any portion of this work
+without explicit written permission from the author.
+
+All rights reserved.
