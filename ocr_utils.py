@@ -3,6 +3,7 @@ OCR utilities: Run Tesseract, process output, handle OCR data structures.
 """
 
 import pytesseract
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 def ocr_pdf(images, lang="eng"):
     """
